@@ -33,4 +33,4 @@ clean:
 	$(RM) *~
 
 test: geometry_test
-	sudo ./geometry_test
+	./geometry_test
